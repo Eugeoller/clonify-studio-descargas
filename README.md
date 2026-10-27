@@ -4,7 +4,7 @@ Tu estudio de contenido con IA. Pones en una pizarra lo que tienes (vídeos, not
 
 ## Descargar
 
-- **[⬇ Descargar para Windows](https://github.com/Eugeoller/clonify-studio-descargas/releases/latest/download/Instalar-Clonify-Studio.exe)** (unos 100 MB)
+- **[⬇ Descargar para Windows](https://github.com/Eugeoller/clonify-studio-descargas/releases/latest/download/Instalar-Clonify-Studio.exe)** (un instalador pequeño, que baja el Studio: unos 100 MB)
 - **[⬇ Descargar para Mac con chip Apple](https://github.com/Eugeoller/clonify-studio-descargas/releases/latest/download/Instalar-Clonify-Studio-mac-arm64.dmg)** (M1, M2, M3, M4…; unos 115 MB)
 - **[⬇ Descargar para Mac con Intel](https://github.com/Eugeoller/clonify-studio-descargas/releases/latest/download/Instalar-Clonify-Studio-mac-x64.dmg)** (unos 120 MB)
 
@@ -12,11 +12,13 @@ Tu estudio de contenido con IA. Pones en una pizarra lo que tienes (vídeos, not
 
 ## Instalarlo en Windows
 
-1. Abre el archivo que has descargado.
-2. Puede que Windows diga **«Windows protegió su PC»**. Sale porque es una versión de prueba aún sin firmar. Pulsa **Más información** y luego **Ejecutar de todas formas**.
-3. Se instala solo en un minuto, sin pedir permisos de administrador, y se abre.
+1. Abre el archivo que has descargado. Baja la última versión del Studio, comprueba que es la original (firmada por **Marea Kiss LLC**) y la instala sola, en un minuto, sin pedir permisos de administrador. Luego se abre.
+2. Puede que antes Windows diga **«Windows protegió su PC»**: el Studio es nuevo y Windows aún no lo conoce. Comprueba que pone **Editor: Marea Kiss LLC**, pulsa **Más información** y luego **Ejecutar de todas formas**.
+3. Entra con tu cuenta.
 4. La primera vez pulsa **Instalar Claude Code**. Tarda uno o dos minutos.
 5. Después pulsa **Conectar** y entra con tu cuenta de Claude.
+
+¿No te funciona el instalador? Descarga el [instalador completo para Windows](https://github.com/Eugeoller/clonify-studio-descargas/releases/latest/download/Clonify-Studio-completo.exe) (unos 100 MB).
 
 ## Instalarlo en Mac
 
